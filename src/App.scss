@@ -3,15 +3,38 @@
   background: white;
   width: 100vw;
   height: 100vh;
-  overflow: hidden;
+  // overflow: hidden;
 
 .Section{
   width: max-content;
   height: 2.5rem;
 }
-  .Main{
+  .Top{
     margin-left: 4rem;
     margin-top: -0.5rem;
-    border-bottom: 7px solid #221122;
+  }
+  .Main{
+  margin-left: 4rem;
+  }
+  .Inquiry{
+    margin-left: 4rem;
+    margin-top: 2rem;
+  }
+  .Text{
+   resize: none;
+    border: 1px solid #888888;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+  label{
+  margin-left: 4rem;
+  border: 1px solid #888888;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 558px;
+  height: 92px;
+  }
+  .Active{
+    width: 558px;
   }
 }
