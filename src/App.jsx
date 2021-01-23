@@ -178,8 +178,8 @@ function App() {
           </button>
         </div>
         <div className="Main">
-          <button className="rounded-lg px-5 py-2  mt-16 bg-coolblue ">
-            <p className="text-2xl">Submit</p>
+          <button className="rounded-lg px-5 py-2  mt-16 bg-coolblue">
+            <p className="text-2xl text-white">Submit</p>
           </button>
         </div>
       </section>
