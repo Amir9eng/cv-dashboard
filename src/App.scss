@@ -3,7 +3,6 @@
   background: white;
   width: 100vw;
   height: 100vh;
-  // overflow: hidden;
 
 .Section{
   width: max-content;
@@ -36,5 +35,16 @@
   }
   .Active{
     width: 558px;
+  }
+ .M{
+   margin-left: -2rem;
+ }
+  .Month{
+    width: 123px;
+    height: 34px;
+    border: 1px solid #888888;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 5px;
   }
 }
